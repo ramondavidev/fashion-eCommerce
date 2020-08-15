@@ -1,6 +1,6 @@
 ## Ecommerce
 
-Shopping platform that uses authentication with firebase, node, react with react-redux and stripe for payments.
+Shopping platform that uses react, node, stripe for payments and authentication with firebase.
 <br/>
 <br/>
 <br/>
